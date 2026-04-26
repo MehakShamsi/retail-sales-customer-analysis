@@ -3,7 +3,7 @@ Analyzed UK retail transactional data using Python, SQL, and Power BI to uncover
 
 ## Dashboard Preview
 
-!(Customer Insights Dashboard.png)
+![main](Customer Insights Dashboard.png)
 
 # Retail Sales & Customer Insights Analysis
 
